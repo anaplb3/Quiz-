@@ -1,2 +1,2 @@
 # Quiz-
-Quiz com perguntas sobre desenhos animados
+Quiz made in Python
